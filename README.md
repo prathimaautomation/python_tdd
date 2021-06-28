@@ -59,5 +59,6 @@ Output when we run in Terminal using python -m pytest:
 platform win32 -- Python 3.8.1, pytest-6.2.4, py-1.10.0, pluggy-0.13.1
 rootdir: C:\Users\Medha\PycharmProjects\python_tdd
 collected 4 items
-calc_test.py ....     
+calc_test.py ....                                                                                   [100%]
+=========================================== 4 passed in 0.11s ============================================
 ```
